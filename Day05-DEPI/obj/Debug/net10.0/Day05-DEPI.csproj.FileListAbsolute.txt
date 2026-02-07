@@ -1,0 +1,15 @@
+C:\Users\NV_User\Desktop\Day05-DEPI\obj\Debug\net10.0\Day05-DEPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NV_User\Desktop\Day05-DEPI\obj\Debug\net10.0\Day05-DEPI.AssemblyInfoInputs.cache
+C:\Users\NV_User\Desktop\Day05-DEPI\obj\Debug\net10.0\Day05-DEPI.AssemblyInfo.cs
+C:\Users\NV_User\Desktop\Day05-DEPI\obj\Debug\net10.0\Day05-DEPI.csproj.CoreCompileInputs.cache
+C:\Users\NV_User\Desktop\Day05-DEPI\obj\Debug\net10.0\Day05-DEPI.sourcelink.json
+C:\Users\NV_User\Desktop\Day05-DEPI\bin\Debug\net10.0\Day05-DEPI.exe
+C:\Users\NV_User\Desktop\Day05-DEPI\bin\Debug\net10.0\Day05-DEPI.deps.json
+C:\Users\NV_User\Desktop\Day05-DEPI\bin\Debug\net10.0\Day05-DEPI.runtimeconfig.json
+C:\Users\NV_User\Desktop\Day05-DEPI\bin\Debug\net10.0\Day05-DEPI.dll
+C:\Users\NV_User\Desktop\Day05-DEPI\bin\Debug\net10.0\Day05-DEPI.pdb
+C:\Users\NV_User\Desktop\Day05-DEPI\obj\Debug\net10.0\Day05-DEPI.dll
+C:\Users\NV_User\Desktop\Day05-DEPI\obj\Debug\net10.0\refint\Day05-DEPI.dll
+C:\Users\NV_User\Desktop\Day05-DEPI\obj\Debug\net10.0\Day05-DEPI.pdb
+C:\Users\NV_User\Desktop\Day05-DEPI\obj\Debug\net10.0\Day05-DEPI.genruntimeconfig.cache
+C:\Users\NV_User\Desktop\Day05-DEPI\obj\Debug\net10.0\ref\Day05-DEPI.dll
