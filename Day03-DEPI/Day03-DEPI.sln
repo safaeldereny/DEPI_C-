@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day03-DEPI", "Day03-DEPI.csproj", "{2CAE0A22-E3E8-702A-1913-E503531C76E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CAE0A22-E3E8-702A-1913-E503531C76E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAE0A22-E3E8-702A-1913-E503531C76E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAE0A22-E3E8-702A-1913-E503531C76E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAE0A22-E3E8-702A-1913-E503531C76E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D75C5AF-2C2C-44DE-A38B-26C655C8FBFE}
+	EndGlobalSection
+EndGlobal

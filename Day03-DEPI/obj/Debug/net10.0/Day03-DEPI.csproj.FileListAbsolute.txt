@@ -1,0 +1,15 @@
+C:\Users\NV_User\Desktop\Day03-DEPI\bin\Debug\net10.0\Day03-DEPI.exe
+C:\Users\NV_User\Desktop\Day03-DEPI\bin\Debug\net10.0\Day03-DEPI.deps.json
+C:\Users\NV_User\Desktop\Day03-DEPI\bin\Debug\net10.0\Day03-DEPI.runtimeconfig.json
+C:\Users\NV_User\Desktop\Day03-DEPI\bin\Debug\net10.0\Day03-DEPI.dll
+C:\Users\NV_User\Desktop\Day03-DEPI\bin\Debug\net10.0\Day03-DEPI.pdb
+C:\Users\NV_User\Desktop\Day03-DEPI\obj\Debug\net10.0\Day03-DEPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NV_User\Desktop\Day03-DEPI\obj\Debug\net10.0\Day03-DEPI.AssemblyInfoInputs.cache
+C:\Users\NV_User\Desktop\Day03-DEPI\obj\Debug\net10.0\Day03-DEPI.AssemblyInfo.cs
+C:\Users\NV_User\Desktop\Day03-DEPI\obj\Debug\net10.0\Day03-DEPI.csproj.CoreCompileInputs.cache
+C:\Users\NV_User\Desktop\Day03-DEPI\obj\Debug\net10.0\Day03-DEPI.sourcelink.json
+C:\Users\NV_User\Desktop\Day03-DEPI\obj\Debug\net10.0\Day03-DEPI.dll
+C:\Users\NV_User\Desktop\Day03-DEPI\obj\Debug\net10.0\refint\Day03-DEPI.dll
+C:\Users\NV_User\Desktop\Day03-DEPI\obj\Debug\net10.0\Day03-DEPI.pdb
+C:\Users\NV_User\Desktop\Day03-DEPI\obj\Debug\net10.0\Day03-DEPI.genruntimeconfig.cache
+C:\Users\NV_User\Desktop\Day03-DEPI\obj\Debug\net10.0\ref\Day03-DEPI.dll

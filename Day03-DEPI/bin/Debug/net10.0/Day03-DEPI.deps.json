@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Day03-DEPI/1.0.0": {
+        "runtime": {
+          "Day03-DEPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day03-DEPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
