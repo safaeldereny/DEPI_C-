@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Csharp_Day10/Csharp_Day10.csproj" />
+  <Project Path="Problem02/Problem02.csproj" />
+  <Project Path="Problem03/Problem03.csproj" />
+  <Project Path="Problem04/Problem04.csproj" />
+  <Project Path="Problem05/Problem05.csproj" />
+  <Project Path="Problem06/Problem06.csproj" />
+</Solution>
